@@ -1,0 +1,70 @@
+/* styles.css */
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  background-color: #4CAF50;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+
+.header a {
+  text-decoration: none;
+  color: white;
+}
+
+.hero {
+  text-align: center;
+  padding: 20px;
+  background: url('hero-bg.jpg') no-repeat center center / cover;
+  color: white;
+}
+
+.hero h2 {
+  font-size: 24px;
+}
+
+.hero button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.infographics {
+  text-align: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.infographic-card {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+}
+
+.infographic-card img {
+  width: 50px;
+  height: 50px;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
