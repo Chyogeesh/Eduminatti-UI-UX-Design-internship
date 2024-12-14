@@ -68,4 +68,14 @@ Infographic Area: Use sections with icons, charts, or graphical elements.
 Content Section: Add responsive typography for text content.
 Footer: Add links, contact information, and social media icons.
 Export:
+Final Submission:
+PDF Export:
+
+Export the Figma design as a PDF and include any necessary notes.
+Source Files:
+
+Push your HTML and CSS files to a GitHub repository.
+Submission:
+
+Email the PDF and Figma link as per the instructions provided.
 Save the design as a PDF and shareable Figma link.
